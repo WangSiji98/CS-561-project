@@ -1,0 +1,11 @@
+GAME
+BLACK
+100.0
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
